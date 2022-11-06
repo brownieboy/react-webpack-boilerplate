@@ -1,5 +1,5 @@
 {
-  "name": "react-demo",
+  "name": "react-webpack-boilerplate",
   "scripts": {
     "build": "webpack",
     "start": "webpack serve --open"
